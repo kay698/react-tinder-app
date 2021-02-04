@@ -1,0 +1,14 @@
+.header_cover{
+  display: flex;
+  height: 80px;
+  width: 100%;
+  z-index: 100;
+  justify-content: space-between;
+  padding: 0 20px;
+  align-items: center;
+}
+.logo{
+   object-fit: contain;
+   height: 30px;
+   width: auto;
+}
